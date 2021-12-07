@@ -1,0 +1,12 @@
+.lhs {
+    background-color: black;
+    color: white;
+}
+.rhs {
+    background-color: yellow;
+    color: black;
+}
+.lhs, .rhs {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+  }
