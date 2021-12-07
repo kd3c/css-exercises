@@ -1,0 +1,16 @@
+.odd-rows {
+   background-color: pink; 
+   font-family: Verdana, sans-serif;
+}
+.odd-cool {
+    font-size: 34px;
+}
+#second {
+    font-size: 36px;
+    color: blue;
+}
+#fourth {
+    background-color: chartreuse;
+    font-size: 24px;
+    font-weight: bold;
+}
